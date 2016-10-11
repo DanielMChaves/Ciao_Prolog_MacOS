@@ -23,7 +23,7 @@
     (load-file "/usr/local/lib/ciao/ciao-mode-init.el"))
 ```
 
-* This instalation has been done in a mac with macOS Sierra.
+* This installation has been done in a mac with macOS Sierra.
 
 * Example apperience of Ciao prolog in emacs
 

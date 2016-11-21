@@ -16,7 +16,7 @@
 
 3. Emacs configuration
 
-  Finally, write this code in the emacs configuration file (.emacs.d/init.el, .emacs.el or similar). This loads the file ciao-mode-init.el so that Ciao prolog works on emacs.
+  Finally, write this code in the emacs configuration file (.emacs, .emacs.d/init.el, .emacs.el or similar). This loads the file ciao-mode-init.el so that Ciao prolog works on emacs.
 
 ```bash
 (if (file-exists-p "/usr/local/lib/ciao/ciao-mode-init.el")
@@ -47,7 +47,7 @@
 
 3. Configuración de emacs
 
-  Para finalizar, ponemos el siguiente código en el fichero de configuración de emacs (.emacs.d/init.el, .emacs.el o similar). Esto carga el fichero ciao-mode-init.el para que funcione Ciao prolog en emacs.
+  Para finalizar, ponemos el siguiente código en el fichero de configuración de emacs (.emacs, .emacs.d/init.el, .emacs.el o similar). Esto carga el fichero ciao-mode-init.el para que funcione Ciao prolog en emacs.
 
 ```bash
 (if (file-exists-p "/usr/local/lib/ciao/ciao-mode-init.el")

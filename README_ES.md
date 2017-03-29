@@ -3,7 +3,7 @@
 [![English](http://upload.wikimedia.org/wikipedia/commons/e/e1/Union_Jack_22x16.png "English")](README_EN.md)
 [![Español](http://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_spain.png "Español")](README_ES.md)
 
-**Autores:** [Daniel Melero Chaves] (https://github.com/DanielMChaves) y [Carlos Saito Murata] (https://github.com/exacs)
+**Autores:** [Daniel Melero Chaves](https://github.com/DanielMChaves) y [Carlos Saito Murata](https://github.com/exacs)
 
 1. Descargar la app de emacs
 
